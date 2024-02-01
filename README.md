@@ -1,7 +1,7 @@
 # Gitesh Jawale
 ### Hi there 👋
 
-I am [Gitesh](https://www.linkedin.com/in/gitesh-jawale/), a Site Reliability Engineer with a keen passion for the development and maintenance of production-level applications. My primary areas of expertise include Terraform, AWS, Kubernetes, Istio, Prometheus, and Grafana. 
+I am [Gitesh](https://www.linkedin.com/in/gitesh-jawale/), a Site Reliability Engineer with a keen passion for the development and maintenance of production-level applications. My primary areas of expertise include Terraform, AWS, Kubernetes, Helm, Istio, Prometheus, and Grafana. 
 
 ### DevOps
   
@@ -16,13 +16,16 @@ I am [Gitesh](https://www.linkedin.com/in/gitesh-jawale/), a Site Reliability En
     <img src="https://github.com/Giteshjawale4760/GiteshJawale/blob/main/gif/Terraform.png"  height="75" />
   </a>
   <a href="https://www.docker.com/" target="_blank" >
-    <img src="[URL_TO_DOCKER_LOGO](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.docker.com%2Fwp-content%2Fuploads%2F2023%2F08%2Flogo-guide-logos-1.svg&tbnid=4KN2kMesitraRM&vet=12ahUKEwjzp9X5pomEAxUWSmwGHf_wDf0QMygBegQIARBQ..i&imgrefurl=https%3A%2F%2Fwww.docker.com%2Fcompany%2Fnewsroom%2Fmedia-resources%2F&docid=qTskOJD2jFCQpM&w=800&h=534&q=docker%20logo%20url&client=opera&ved=2ahUKEwjzp9X5pomEAxUWSmwGHf_wDf0QMygBegQIARBQ)"  height="75" />
+    <img src="https://github.com/Giteshjawale4760/GiteshJawale/blob/main/gif/Docker.png"  height="75" />
   </a>
   <a href="https://kubernetes.io/" target="_blank" >
-    <img src="[URL_TO_KUBERNETES_LOGO](https://www.google.com/imgres?imgurl=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A730%2F1*WCsqMt85nMP0DvYv0JnkOA.png&tbnid=lDRSLTEhudlP4M&vet=12ahUKEwj_zOqLp4mEAxUhTGwGHXMQDzkQMygCegQIARBO..i&imgrefurl=https%3A%2F%2Fmedium.com%2Fswlh%2Fthe-ultimate-guide-to-on-perm-kubernetes-84b564f0acc&docid=AUdBVdj0bhX38M&w=730&h=389&q=kubernetes%20logo%20url&client=opera&ved=2ahUKEwj_zOqLp4mEAxUhTGwGHXMQDzkQMygCegQIARBO)"  height="75" />
+    <img src="https://github.com/Giteshjawale4760/GiteshJawale/blob/main/gif/kubernetes.png"  height="75" />
+  </a>
+   <a href="https://helm.sh" target="_blank" >
+    <img src="https://github.com/Giteshjawale4760/GiteshJawale/blob/main/gif/helm.png"  height="75" />
   </a>
   <a href="https://istio.io/" target="_blank" >
-    <img src="[URL_TO_ISTIO_LOGO](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.loginradius.com%2Fblog%2Fstatic%2F452f4d9f7cb358e3d6224ed3aba3d5d6%2F03979%2FIstio.png&tbnid=ll6ahK1f3M98SM&vet=12ahUKEwjvxYmap4mEAxWVR2wGHYxFCfsQMygFegQIARBY..i&imgrefurl=https%3A%2F%2Fwww.loginradius.com%2Fblog%2Fengineering%2Fistio-installation-and-service-configuration%2F&docid=Bt0Md2kZuKLaEM&w=800&h=533&q=istio%20logo%20url&client=opera&ved=2ahUKEwjvxYmap4mEAxWVR2wGHYxFCfsQMygFegQIARBY)"  height="75" />
+    <img src="https://github.com/Giteshjawale4760/GiteshJawale/blob/main/gif/istio.png"  height="75" />
   </a>
 </p>
 
