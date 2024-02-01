@@ -1,49 +1,32 @@
 # GiteshJawale
 ### Hi there 👋
 
-<!--
-**LondheShubham153/LondheShubham153** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+I am [Gitesh](https://www.linkedin.com/in/gitesh-jawale/), a Site Reliability Engineer with a keen passion for the development and maintenance of production-level applications. My primary areas of expertise include Terraform, AWS, Kubernetes, Istio, Prometheus, and Grafana. 
 
-I am [Shubham](https://www.linkedin.com/in/shubhamlondhe1996/), a Full Stack Software Engineer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp; passionate about developing production-ready applications with 2+ years of professional onsite as well as remote working experience. 🎯
-
-I mostly work with Python, MVC Frameworks and Cloud based technologies. 🚀
-
-
-<p float="left">
-  <a href="https://python.org/" target="_blank" >
-    <img src="https://media1.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif"  height="90" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="80" /> 
-  </a>
-  
-  <a href="https://www.djangoproject.com/" target="_blank" >
-    <img src="https://www.edgica.com/wp-content/files/django-logo-big.jpg"  height="80" /> 
-  </a>
-  
-  <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif"  height="65" />
-  </a>
-  <a href="https://grpc.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grpc.gif"  height="75" />
-  </a>
-  <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/html-css-js.png" height="70" />
-  </a>
- </p>
-  
 ### DevOps
   
- <p float="left">
+<p float="left">
   <a href="https://m.do.co/c/3bc2250b7076" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/do.gif"  height="75" />
   </a> 
   <a href="https://aws.amazon.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif"  height="75" />
   </a>
- </p>
-  
+  <a href="https://www.terraform.io/" target="_blank" >
+    <img src="[URL_TO_TERRAFORM_LOGO](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.hashicorp.com%2Fbrand&psig=AOvVaw0coOu7fLP7vW71JatvhMYL&ust=1706848065842000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLj7_9-miYQDFQAAAAAdAAAAABAE)"  height="75" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank" >
+    <img src="[URL_TO_DOCKER_LOGO](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.docker.com%2Fwp-content%2Fuploads%2F2023%2F08%2Flogo-guide-logos-1.svg&tbnid=4KN2kMesitraRM&vet=12ahUKEwjzp9X5pomEAxUWSmwGHf_wDf0QMygBegQIARBQ..i&imgrefurl=https%3A%2F%2Fwww.docker.com%2Fcompany%2Fnewsroom%2Fmedia-resources%2F&docid=qTskOJD2jFCQpM&w=800&h=534&q=docker%20logo%20url&client=opera&ved=2ahUKEwjzp9X5pomEAxUWSmwGHf_wDf0QMygBegQIARBQ)"  height="75" />
+  </a>
+  <a href="https://kubernetes.io/" target="_blank" >
+    <img src="[URL_TO_KUBERNETES_LOGO](https://www.google.com/imgres?imgurl=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A730%2F1*WCsqMt85nMP0DvYv0JnkOA.png&tbnid=lDRSLTEhudlP4M&vet=12ahUKEwj_zOqLp4mEAxUhTGwGHXMQDzkQMygCegQIARBO..i&imgrefurl=https%3A%2F%2Fmedium.com%2Fswlh%2Fthe-ultimate-guide-to-on-perm-kubernetes-84b564f0acc&docid=AUdBVdj0bhX38M&w=730&h=389&q=kubernetes%20logo%20url&client=opera&ved=2ahUKEwj_zOqLp4mEAxUhTGwGHXMQDzkQMygCegQIARBO)"  height="75" />
+  </a>
+  <a href="https://istio.io/" target="_blank" >
+    <img src="[URL_TO_ISTIO_LOGO](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.loginradius.com%2Fblog%2Fstatic%2F452f4d9f7cb358e3d6224ed3aba3d5d6%2F03979%2FIstio.png&tbnid=ll6ahK1f3M98SM&vet=12ahUKEwjvxYmap4mEAxWVR2wGHYxFCfsQMygFegQIARBY..i&imgrefurl=https%3A%2F%2Fwww.loginradius.com%2Fblog%2Fengineering%2Fistio-installation-and-service-configuration%2F&docid=Bt0Md2kZuKLaEM&w=800&h=533&q=istio%20logo%20url&client=opera&ved=2ahUKEwjvxYmap4mEAxWVR2wGHYxFCfsQMygFegQIARBY)"  height="75" />
+  </a>
+</p>
+
+
 ### Databases and Monitoring
   
   <a href="https://prometheus.io/" target="_blank" >
