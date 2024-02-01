@@ -6,6 +6,12 @@ I am [Gitesh](https://www.linkedin.com/in/gitesh-jawale/), a Site Reliability En
 ### DevOps
   
 <p float="left">
+   <a href="https://www.linux.org" target="_blank" >
+    <img src="https://github.com/Giteshjawale4760/GiteshJawale/blob/main/gif/linux.png"  height="75" />
+  </a>
+   <a href="https://devdocs.io/bash/" target="_blank" >
+    <img src="https://github.com/Giteshjawale4760/GiteshJawale/blob/main/gif/BashScriptinh.png"  height="75" />
+  </a>
   <a href="https://aws.amazon.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif"  height="75" />
   </a>
@@ -27,7 +33,7 @@ I am [Gitesh](https://www.linkedin.com/in/gitesh-jawale/), a Site Reliability En
 </p>
 
 ### CI CD Tools
-  <a href="https://prometheus.io/" target="_blank" >
+  <a href="https://www.jenkins.io" target="_blank" >
     <img src="https://github.com/Giteshjawale4760/GiteshJawale/blob/main/gif/jenkins.png" height="75" />
   </a>
   <a href="https://docs.github.com/en/actions" target="_blank" >
@@ -40,20 +46,27 @@ I am [Gitesh](https://www.linkedin.com/in/gitesh-jawale/), a Site Reliability En
 
 ### Databases and Monitoring
   
-  <a href="https://www.jenkins.io" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="65" />
+  <a href="https://www.mysql.com" target="_blank" >
+    <img src="https://github.com/Giteshjawale4760/GiteshJawale/blob/main/gif/mysql.png" height="75" />
   </a>
-  <a href="https://www.influxdata.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/influxdata.gif" height="60" />
+  <a href="https://www.postgresql.org" target="_blank" >
+    <img src="https://github.com/Giteshjawale4760/GiteshJawale/blob/main/gif/postgress.png" height="75" />
   </a>
-    <a href="https://www.postgresql.org" target="_blank" >
-    <img src="https://www.postgresql.org/media/img/about/press/elephant.png" height="60" />
+    <a href="https://www.mongodb.com" target="_blank" >
+    <img src="https://github.com/Giteshjawale4760/GiteshJawale/blob/main/gif/mongodb.png" height="75" />
   </a>
   </a>
-    <a href="https://www.mongodb.com/" target="_blank" >
-    <img src="https://www.logolynx.com/images/logolynx/cf/cf72126a3551b816d617a06ffb01388b.png" height="60" />
+    <a href="https://aws.amazon.com/cloudwatch/" target="_blank" >
+    <img src="https://github.com/Giteshjawale4760/GiteshJawale/blob/main/gif/cloudwatch.png" height="75" />
   </a>
-  
+  </a>
+    <a href="https://prometheus.io" target="_blank" >
+    <img src="https://github.com/Giteshjawale4760/GiteshJawale/blob/main/gif/prometheus.png" height="75" />
+  </a>
+  </a>
+    <a href="https://grafana.com/docs/" target="_blank" >
+    <img src="https://github.com/Giteshjawale4760/GiteshJawale/blob/main/gif/grafana.png" height="75" />
+  </a>
 </p>
 
 
