@@ -13,7 +13,7 @@ I am [Gitesh](https://www.linkedin.com/in/gitesh-jawale/), a Site Reliability En
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif"  height="75" />
   </a>
   <a href="https://www.terraform.io/" target="_blank" >
-    <img src="[URL_TO_TERRAFORM_LOGO](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.hashicorp.com%2Fbrand&psig=AOvVaw0coOu7fLP7vW71JatvhMYL&ust=1706848065842000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLj7_9-miYQDFQAAAAAdAAAAABAE)"  height="75" />
+    <img src="https://github.com/Giteshjawale4760/GiteshJawale/blob/main/gif/Terraform.png"  height="75" />
   </a>
   <a href="https://www.docker.com/" target="_blank" >
     <img src="[URL_TO_DOCKER_LOGO](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.docker.com%2Fwp-content%2Fuploads%2F2023%2F08%2Flogo-guide-logos-1.svg&tbnid=4KN2kMesitraRM&vet=12ahUKEwjzp9X5pomEAxUWSmwGHf_wDf0QMygBegQIARBQ..i&imgrefurl=https%3A%2F%2Fwww.docker.com%2Fcompany%2Fnewsroom%2Fmedia-resources%2F&docid=qTskOJD2jFCQpM&w=800&h=534&q=docker%20logo%20url&client=opera&ved=2ahUKEwjzp9X5pomEAxUWSmwGHf_wDf0QMygBegQIARBQ)"  height="75" />
