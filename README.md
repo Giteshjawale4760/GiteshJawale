@@ -1,4 +1,4 @@
-# GiteshJawale
+# Gitesh Jawale
 ### Hi there 👋
 
 I am [Gitesh](https://www.linkedin.com/in/gitesh-jawale/), a Site Reliability Engineer with a keen passion for the development and maintenance of production-level applications. My primary areas of expertise include Terraform, AWS, Kubernetes, Istio, Prometheus, and Grafana. 
@@ -48,7 +48,5 @@ I am [Gitesh](https://www.linkedin.com/in/gitesh-jawale/), a Site Reliability En
 
 ### 📫 How to reach me?
 
- - Visit my [Website](https://www.trainwithshubham.com) 🌐
- - Connect with me on [LinkedIn](https://www.linkedin.com/in/shubhamlondhe1996/) 👨🏻‍💻
- - Follow me on [Instagram](https://www.instagram.com/shubhamlondhe96/) ✨
- - Shoot Me an [Email](mailto:trainwithshubham@gmail.com) 💌
+ - Connect with me on [LinkedIn](https://www.linkedin.com/in/gitesh-jawale/) 👨🏻‍💻
+ - Shoot Me an [Email](mailto:er.giteshjawale0956@gmail.com) 💌
