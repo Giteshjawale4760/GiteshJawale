@@ -26,10 +26,21 @@ I am [Gitesh](https://www.linkedin.com/in/gitesh-jawale/), a Site Reliability En
   </a>
 </p>
 
+### CI CD Tools
+  <a href="https://prometheus.io/" target="_blank" >
+    <img src="https://github.com/Giteshjawale4760/GiteshJawale/blob/main/gif/jenkins.png" height="75" />
+  </a>
+  <a href="https://docs.github.com/en/actions" target="_blank" >
+    <img src="https://github.com/Giteshjawale4760/GiteshJawale/blob/main/gif/githubaction.png" height="75" />
+  </a>
+   <a href="https://argoproj.github.io/cd/" target="_blank" >
+    <img src="https://github.com/Giteshjawale4760/GiteshJawale/blob/main/gif/argocd.png" height="75" />
+  </a>
+
 
 ### Databases and Monitoring
   
-  <a href="https://prometheus.io/" target="_blank" >
+  <a href="https://www.jenkins.io" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="65" />
   </a>
   <a href="https://www.influxdata.com/" target="_blank" >
